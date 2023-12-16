@@ -11,7 +11,7 @@ Implementing different design patterns in Python
 - [ ] Structural Patterns
   - [X] [Adapter](structural/adapter.py)
   - [ ] Bridge
-  - [ ] Composite
+  - [X] [Composite](structural/composite.py)
   - [ ] Decorator
   - [ ] Facade
   - [ ] Flyweight
