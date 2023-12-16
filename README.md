@@ -9,7 +9,7 @@ Implementing different design patterns in Python
   - [ ] Singleton
 
 - [ ] Structural Patterns
-  - [ ] Adapter
+  - [X] [Adapter](structural/adapter.py)
   - [ ] Bridge
   - [ ] Composite
   - [ ] Decorator
