@@ -6,7 +6,7 @@ Implementing different design patterns in Python
   - [ ] Abstract Factory
   - [ ] Builder
   - [ ] Prototype
-  - [ ] Singleton
+  - [X] Singleton
 
 - [ ] Structural Patterns
   - [X] [Adapter](structural/adapter.py)
